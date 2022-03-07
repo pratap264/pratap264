@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratap264
-- 👀 I’m interested in AI ML WEb DEVELOPMenT aPP dEVELpomNt
+- 👀 I’m interested in AI ML WEb DEV Ds
 - 🌱 I’m currently learning last year comp STUdeNt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
