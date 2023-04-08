@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratap264
 - 👀 I’m interested in WEb DEV
-- 🌱 I’m currently learning Final year Comp STUdeNt
+- 🌱 I’m currently WorKinG at TransUnion as .Net Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....
 
