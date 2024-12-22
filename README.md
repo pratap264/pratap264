@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratap264
 - 👀 I’m interested in Full Satck Dev
-- 🌱 I’m currently WorKinG at TransUnion as .Net Developer.
+- 🌱 I’m currently WorKinG at TransUnion as Full Stack Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....
 
